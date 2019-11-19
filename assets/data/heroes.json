@@ -1,0 +1,20 @@
+{
+    "heroes" : [
+        {
+            "name" : "John Snow",
+            "codename" : "King in the North"
+        },
+        {
+            "name" : "Peter Parker",
+            "codename" : "Friendly Neighborhood Spider-Man"
+        },
+        {
+            "name" : "Gwen Stacy",
+            "codename" : "Spider-Gwen"
+        },
+        {
+            "name" : "Clark Kent",
+            "codename" : "Superman"
+        }
+    ]
+}
